@@ -57,6 +57,7 @@ To ensure the quality of our project tutorials, all tutorials must abide by thes
 ## Tags
 
 - python
+- javascript 
 - beginner
 - intermediate
 - advanced
